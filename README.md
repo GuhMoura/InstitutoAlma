@@ -130,4 +130,4 @@ GET,/api/doador/doacoes,Histórico de doações
 📄 Licença
 Este projeto é licenciado sob a Licença Creative Commons CC BY 4.0.
 
-<p align="center"> Desenvolvido com 💙 por Global SI - FECAP </p>
+Desenvolvido por Global SI - FECAP 
